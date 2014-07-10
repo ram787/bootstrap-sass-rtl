@@ -1,4 +1,4 @@
-# [Bootstrap RTL v3.2.0 Sass](http://getbootstrap.com)
+# [BootStrap Sass RTL](http://getbootstrap.com)
 
 ## Quick start
 
